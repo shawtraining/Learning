@@ -10,5 +10,8 @@ class HelloWorld {
         System.out.println("hello India");
         System.out.println("hello India");
         System.out.println("hello India");
+        System.out.println("hello India");
+        System.out.println("hello India");
+        System.out.println("hello India");
     }
 }
