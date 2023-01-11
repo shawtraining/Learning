@@ -8,5 +8,7 @@ class HelloWorld {
             System.out.print(arr[i]+" ");
         }
         System.out.println("hello India");
+        System.out.println("hello India");
+        System.out.println("hello India");
     }
 }
